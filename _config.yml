@@ -1,6 +1,6 @@
 # site settings
 title: Urooj
-# subtitle: 
+subtitle: Raja
 email: youremailaddress@gmail.com
 description: Personal website for Urooj
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
